@@ -1,1 +1,1 @@
-# Vrinda_Store_Analysis
+# Vrinda Store sells different kinds of clothes here is a deep analysis on the sales of there year 2022 data,Deep analysis on the sales of Vrinda store by using different methods in excel and drive a meaningful insight for store ,	Methods used – Data cleaning , Data processing , Dashboards ,Functions
